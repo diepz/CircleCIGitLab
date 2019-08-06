@@ -121,10 +121,10 @@
 ・[MongoDB (Document oriented database)](https://www.mongodb.com/)
 
 ## Security
-(https://phptherightway.com/#security)
+https://phptherightway.com/#security
 
-(https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
+https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/
 
-(https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html)
+https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html
 
-(https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
+https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a
