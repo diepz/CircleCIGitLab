@@ -96,7 +96,7 @@
 ・[LAMP](https://vi.wikipedia.org/wiki/LAMP)
 
 ### 3.XAMPP (Apache - MariaDB - PHP)
-・[XAMPP(https://www.apachefriends.org/index.html)
+・[XAMPP](https://www.apachefriends.org/index.html)
 
 ## Tools
 
@@ -121,7 +121,10 @@
 ・[MongoDB (Document oriented database)](https://www.mongodb.com/)
 
 ## Security
-https://phptherightway.com/#security
-https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/
-https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html
-https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a
+(https://phptherightway.com/#security)
+
+(https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
+
+(https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html)
+
+(https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
